@@ -8,8 +8,11 @@
 </head>
 <body>
 <form method="post" action="GetData">
+Password:<input type="text" name="password"><br><br>
 Name:<input type="text" name="name"><br><br>
 Password:<input type="text" name="password"><br><br>
+<input type="submit" value="Submit.."><br><br>
+<input type="submit" value="Submit.."><br><br>
 <input type="submit" value="Submit.."><br><br>
 <input type="submit" value="Submit.."><br><br>
 </form>
