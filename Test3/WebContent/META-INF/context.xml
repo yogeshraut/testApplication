@@ -1,0 +1,9 @@
+<Context>
+
+  <Resource name="New Derby" auth="Container" type="javax.sql.DataSource"
+               maxActive="50" maxIdle="30" maxWait="10000"
+               username="admin" password="admin"
+               driverClassName="com.mysql.jdbc.Driver"
+               url="jdbc:derby:C:\Users\shiri\MyDB;create=true;upgrade=true"/>
+
+</Context>
